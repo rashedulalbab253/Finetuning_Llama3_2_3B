@@ -4,6 +4,10 @@ This project demonstrates how to fine-tune the [Llama 3.2 3B Instruct](https://h
 
 ---
 
+## ⚠️ Note
+
+> My previous GitHub account was unexpectedly suspended. This project was originally created earlier and has been re-uploaded here. All work was done gradually over time, and original commit history has been preserved where possible.
+
 ## Features
 
 - **Unsloth**: Enables fast, memory-efficient fine-tuning of large language models.
